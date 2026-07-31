@@ -5,8 +5,8 @@
 %global crate slog
 
 Name:           rust-%{crate}
-Version:        2.5.2
-Release:        2%{?dist}
+Version:        2.8.2
+Release:        1%{?dist}
 Summary:        Structured, extensible, composable logging for Rust
 
 # Upstream license specification: MPL-2.0 OR MIT OR Apache-2.0
